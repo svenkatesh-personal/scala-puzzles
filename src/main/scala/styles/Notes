@@ -1,0 +1,31 @@
+Scala Testing Libraries
+- uTest
+- specs2
+- ScalaTest
+
+ScalaTest
+- Apache 2.0
+- can integrate Junit, TestNg, ScalaCheck
+- Mocikto, ScalaMock, EasyMock, JMock
+
+8 Testing Styles
+- xUnit
+- BDD
+- RSpec
+- PropSpec etc
+
+ScalaTest is most used in Akka, sbt
+
+To know better
+- Test vs Suite
+- FlatSpec
+- Assertions
+- Matcher DSL
+- Tagging tests
+- Mocking tests using ScalaMock
+
+Assertions --> Matchers --> Fixtures/Asynchronous --> Mocking/Tagging
+
+
+
+
